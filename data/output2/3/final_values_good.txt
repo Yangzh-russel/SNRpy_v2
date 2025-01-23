@@ -1,0 +1,1 @@
+epoch good_track epoch_time year month day id_sat Azi_ini Azi_end ele_ini ele_end A desvA Phi desvPhi ref_height SatelliteDirection
